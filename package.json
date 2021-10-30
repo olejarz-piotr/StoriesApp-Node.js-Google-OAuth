@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-stories-app",
+  "version": "1.0.0",
+  "description": "App for creating blogs, stories via online WYSIWYG, app contain google oauth and is written with Node.js code connected to mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olejarz-piotr/StoriesApp-Node.js-Google-OAuth.git"
+  },
+  "keywords": [
+    "Oauth",
+    "Nodejs",
+    "stories"
+  ],
+  "author": "Piotr Olejarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olejarz-piotr/StoriesApp-Node.js-Google-OAuth/issues"
+  },
+  "homepage": "https://github.com/olejarz-piotr/StoriesApp-Node.js-Google-OAuth#readme",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
